@@ -1,0 +1,9 @@
+student = {
+    "name": "Komala",
+    "age": 21
+}
+
+student["course"] = "Python"   # Add
+student["age"] = 22           # Update
+
+print(student)
