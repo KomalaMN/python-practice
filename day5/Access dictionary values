@@ -1,0 +1,8 @@
+student = {
+    "name": "Komala",
+    "age": 21,
+    "course": "Python"
+}
+
+print("Name:", student["name"])
+print("Age:", student.get("age"))
