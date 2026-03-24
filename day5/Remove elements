@@ -1,0 +1,10 @@
+student = {
+    "name": "Komala",
+    "age": 21,
+    "course": "Python"
+}
+
+student.pop("age")
+del student["course"]
+
+print(student)
